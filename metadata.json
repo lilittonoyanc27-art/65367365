@@ -1,0 +1,6 @@
+{
+  "name": "Español Interactivo: Natalia Oreiro — Río de la Plata",
+  "description": "Интерактивный музыкальный урок испанского языка по песне Наталии Орейро «Río de la Plata» с клипом, караоке-субтитрами, словарём, грамматикой и играми.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
